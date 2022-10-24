@@ -9,6 +9,7 @@ the inputs, which includes 8 numbers in either binary, octal, decimal, or
 hexidecimal, will all be saved ahead of time in a file called "integers.txt." - 
 this avoids errors with typing things into council. - each of the 8 numbers is
 preceeded by a letter character that represents the base.
+coded using NetBeans.
 */
 
 package radixfileio;
